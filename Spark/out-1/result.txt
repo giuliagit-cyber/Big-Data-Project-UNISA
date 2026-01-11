@@ -1,0 +1,6 @@
+(7371884,North America)
+(7088248,Europe)
+(7054010,Middle East)
+(6977122,Asia)
+(6869832,Africa)
+(6862670,South America)
